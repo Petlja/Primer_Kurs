@@ -16,6 +16,10 @@ description:
       href: https://docutils.sourceforge.io/docs/user/rst/quickref.html
     - text: Синтакса restructuredText 2
       href: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
+  longDescription:
+    Овде је потребно унети дужи опис пројекта
+  shortDescription: 
+    Овде можете унети краћи опис пројекта
 
 lessons:
   - title: Наслов_1
